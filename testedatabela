@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=
+    , initial-scale=1.0">
+    <title>Etiqueta e boas maneiras - Página inicial</title>
+</head>
+<style>
+    p {
+        text-align: justify;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+  
+</style>
+
+<h1 style="text-align: center"> Regras de etiqueta e boas maneiras <br> quando você visita alguém no hospital</h1>
+
+<p>Ter um familiar ou amigo hospitalizado pode ser muito perturbador emocionalmente, e, às vezes não se pensa em certas atitudes a serem tomadas, a fim de que essa pessoa se sinta bem, e em consideração a seus sentimentos, quando de sua visita. Muitas vezes pacientes internados anseiam por visitas de familiares e amigos, mas estes devem sempre se atentar a algumas coisas</p>
+<u>
+    
+        <p style="text-align: center"><a href = regra1.html> Regra 1 </a href></p>
+        <p style="text-align: center"><a href = regra2.html> Regra 2 </a href></p>
+        <p style="text-align: center"><a href = regra3.html> Regra 3 </a href></p>
+        <p style="text-align: center"><a href = regra4.html> Regra 4 </a href></p>
+        <p style="text-align: center"><a href = regra5.html> Regra 5 </a href></p>
+    
+</u>
+
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>regra1</title>
+</head>
+<style>
+    h1 {
+        text-align: center;
+    }
+    h2 {
+        text-align: center;
+    }
+    p {
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+</style>
+<body>
+    <h1> Regras de etiqueta e boas maneiras <br> quando você visita alguém no hospital</h1>
+    <h2> Regra 1</h2>
+    <p> Se não for um familiar próximo, entre em contato com a família da pessoa ou o hospital para saber se, e quando, você pode visitar a pessoa internada.</p>
+    <p><a href="regra2.html"> Próxima Regra </p></a>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>regra2</title>
+</head>
+
+<style>
+    h1 {
+        text-align: center;
+    }
+    h2 {
+        text-align: center;
+    }
+    p {
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+ 
+
+</style>
+
+
+<body>
+    <h1> Regras de etiqueta e boas maneiras <br> quando você visita alguém no hospital</h1>
+    <h2> Regra 2 </h2>
+    <p> Se for possível, ligue para o paciente e lhe pergunte se ele está disposto a receber visitas. </p>
+    <center><a href="regra1.htnl"> Regra Anterior </a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="regra3.html"> Próxima Regra </a></center>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>regra3</title>
+</head>
+
+<style>
+    h1 {
+        text-align: center;
+    }
+    h2 {
+        text-align: center;
+    }
+    p {
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+ 
+
+</style>
+
+
+<body>
+    <h1> Regras de etiqueta e boas maneiras <br> quando você visita alguém no hospital</h1>
+    <h2> Regra 3 </h2>
+    <p> Esteja atento ao fato de que a pessoa poderá ficar cansada à medida que sua visita prossegue. Se perceber que a pessoa está querendo dormir ou ficando cansada, mesmo que esteja há pouco tempo com ela, despeça-se e visite-a noutro dia.  </p>
+    <center><a href="regra2.htnl"> Regra Anterior </a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="regra4.html"> Próxima Regra </a></center>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>regra4</title>
+</head>
+
+<style>
+    h1 {
+        text-align: center;
+    }
+    h2 {
+        text-align: center;
+    }
+    p {
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+ 
+
+</style>
+
+
+<body>
+    <h1> Regras de etiqueta e boas maneiras <br> quando você visita alguém no hospital</h1>
+    <h2> Regra 4 </h2>
+    <p> Mantenha uma visita positiva, sendo uma pessoa positiva, cordial, simpática - não dê ao paciente notícias perturbadoras. Anime sempre a pessoa, mesmo que ela seja negativa.</p>
+    <center><a href="regra3.htnl"> Anterior </a href> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="regra5.html"> Próxima Regra </a></center>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>regra5</title>
+</head>
+
+<style>
+    h1 {
+        text-align: center;
+    }
+    h2 {
+        text-align: center;
+    }
+    p {
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+ 
+
+</style>
+
+
+<body>
+    <h1> Regras de etiqueta e boas maneiras <br> quando você visita alguém no hospital</h1>
+    <h2> Regra 5 </h2>
+    <p> Se o quarto de hospital for compartilhado, cumprimente os pacientes restantes e suas visitas quando chegar e quando sair; se achar oportuno deseja-lhe melhoras também.</p>
+    <center><a href="regra4.htnl"> Regra Anterior </a></center>
+
+</body>
+</html>
